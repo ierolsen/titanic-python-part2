@@ -5,5 +5,5 @@ Solution of Kaggle's Titanic Competition
 
  Source: https://www.kaggle.com/c/titanic
  
- In the Kaggle, My Kernel for Titanic: https://www.kaggle.com/erolsen/titanic-feature-engineering-and-neural-network
+ My Kernel in the Kaggle: https://www.kaggle.com/erolsen/titanic-feature-engineering-and-neural-network
 
