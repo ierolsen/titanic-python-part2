@@ -1,7 +1,9 @@
 # titanic-python-part2
 Solution of Kaggle's Titanic Competition 
 
-## Public Score: 0.79425
+## Public Score: 0.79425, 
+# 1,854th of 9934 Top 19%
+
 
  Source: https://www.kaggle.com/c/titanic
  
